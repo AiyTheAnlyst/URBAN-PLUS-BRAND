@@ -31,9 +31,9 @@ behavior and trends in the world of fashion
 most ranked master category.
 - **Usage of product across each season**: We observed a distinct usage of products based on seasons.
 - **Top 10 subcategories**: The analysis reviews the top 10 subcategories of 
-the company and fosters better decisions making.
+the company and fosters better decision-making.
 - **Product collections**: Certain products stood out for themselves 
-and we observed that we sold more women's wears.
+and we observed that we sold more women's wear.
 
 ## Data Visualization 
 
