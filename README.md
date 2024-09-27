@@ -1,13 +1,6 @@
 # URBAN-PLUS-BRAND
 Urban plus fashion products dataset. 
 
-INTRODUCTION
-ANALYSIS PROCESS
-Tools Used
-FINDINGS AND INSIGHTS
-Data Visualization 
-RECOMMENDATION
-
 ## INTRODUCTION
 Welcome to the analysis of Urban Plus Brand's fashion products 
 dataset. 
