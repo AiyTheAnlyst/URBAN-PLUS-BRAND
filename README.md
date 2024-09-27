@@ -36,6 +36,7 @@ the company and fosters better decision-making.
 and we observed that we sold more women's wear.
 
 ## Data Visualization 
+![ghithub](https://github.com/user-attachments/assets/b04265ef-bcc3-4d4b-9679-9acd88d32a6f)
 
 
   
