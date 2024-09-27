@@ -30,10 +30,12 @@ behavior and trends in the world of fashion
  - **Master Category Ranking**: The analysis reviews that personal care is the 
 most ranked master category.
 - **Usage of product across each season**: We observed a distinct usage of products based on seasons.
-- **Top 10 sub categories**: The analysis reviews the top 10 subcategories of 
-the company and fosters a better decisions making.
-- **Product collections**: Certain product collections stood out for themselves 
-and we observed that we sold more women wears.
+- **Top 10 subcategories**: The analysis reviews the top 10 subcategories of 
+the company and fosters better decisions making.
+- **Product collections**: Certain products stood out for themselves 
+and we observed that we sold more women's wears.
+
+## Data Visualization 
 
 
   
