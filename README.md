@@ -10,8 +10,11 @@ customer count, etc. Let's uncover insights into consumer
 behavior and trends in the world of fashion
 
 ## ANALYSIS PROCESS
-I) Data Exploration and Cleaning
- ii) Descriptive Statistics and Exploratory Data Analysis
- iii) Analysis of Article Types and Product Usage
- iv) Gender Distribution and Product Usage
+- Data Exploration and Cleaning
+- Descriptive Statistics and Exploratory Data Analysis
+- Analysis of Article Types and Product Usage
+- Gender Distribution and Product Usage
  
+## Tools Used
+- Microsoft Excel for data cleaning
+- Microsoft Power BI for data visualization
