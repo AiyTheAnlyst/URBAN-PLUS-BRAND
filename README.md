@@ -18,7 +18,7 @@ behavior and trends in the world of fashion
 ## Tools Used
 ### Microsoft Excel
  
-  For getting the data: To get the dataset, (download here)(https://www.kaggle.com/)
+  For getting the data: To get the dataset, [download here](https://www.kaggle.com/)
   
   For data cleaning 
 
@@ -35,4 +35,11 @@ the company and fosters a better decisions making.
 - Product collections: Certain product collections stood out for themselves 
 and we observed that we sold more women wears.
   
- 
+ ## RECOMMENDATION
+ Urban Plus Brand should capitalize on the popularity of personal 
+care products by expanding offerings and marketing efforts. 
+Additionally, aligning product availability and promotions with 
+seasonal usage patterns can enhance customer engagement.
+ Focusing on top-performing subcategories and maximizing sales 
+in women's wear collections will contribute to sustained growth 
+and profitability. 
