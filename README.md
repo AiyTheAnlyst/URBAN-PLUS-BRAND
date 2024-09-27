@@ -16,5 +16,12 @@ behavior and trends in the world of fashion
 - Gender Distribution and Product Usage
  
 ## Tools Used
-- Microsoft Excel for data cleaning
-- Microsoft Power BI for data visualization
+### Microsoft Excel
+ 
+  For getting the data: To get the dataset, (download here)(https://www.kaggle.com/)
+  
+  For data cleaning 
+  
+  ### Microsoft Power BI
+  
+ For data visualization
