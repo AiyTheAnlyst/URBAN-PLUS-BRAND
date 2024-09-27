@@ -21,7 +21,18 @@ behavior and trends in the world of fashion
   For getting the data: To get the dataset, (download here)(https://www.kaggle.com/)
   
   For data cleaning 
-  
-  ### Microsoft Power BI
+
+   ### Microsoft Power BI
   
  For data visualization
+
+  ##  FINDINGS AND INSIGHTS
+ - Master Category Ranking: The analysis reviews that personal care is the 
+most ranked master category.
+- Usage of product across each season: We observed a distinct usage of products based on seasons.
+- Top 10 sub categories: The analysis reviews the top 10 subcategories of 
+the company and fosters a better decisions making.
+- Product collections: Certain product collections stood out for themselves 
+and we observed that we sold more women wears.
+  
+ 
